@@ -1,6 +1,7 @@
 ### Hi there, I'm Jeongyeon Yoon👋
 
 🌱 I'm a developer studying at 42 Seoul.
+
 [![jeyoon's 42 stats](https://badge42.herokuapp.com/api/stats/jeyoon)](https://github.com/JaeSeoKim/badge42)
 
 <!--
