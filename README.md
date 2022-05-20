@@ -2,7 +2,7 @@
 
 🌱 I'm a developer studying at 42 Seoul.
 
-[![jeyoon's 42 stats](https://badge42.herokuapp.com/api/stats/jeyoon)](https://github.com/JaeSeoKim/badge42)
+[![jeyoon's 42 stats](https://badge42.vercel.app/api/v2/cl3en3hhl008509lhaz01qt8t/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **yoouyeon/yoouyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
