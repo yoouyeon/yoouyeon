@@ -2,8 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-yoouyeon-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoouyeon/)](https://www.github.com/yoouyeon/) 
 [![Intra42 Profile Badge](https://img.shields.io/badge/-jeyoon-black?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/jeyoon)](https://profile.intra.42.fr/users/jeyoon)
-[![Blog Badge](https://img.shields.io/badge/-Blog-CCE0EE?style=flat&logo=githubsponsors&logoColor=gray&link=https://yoouyeon.github.io/)](https://yoouyeon.github.io/)
-[![TIL Badge](https://img.shields.io/badge/-TIL-F7819F?style=flat&logo=macy's&ogoColor=gray&link=https://til.yoou.kr/)](https://til.yoou.kr/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-CCE0EE?style=flat&logo=githubsponsors&logoColor=gray&link=https://yoouyeon.github.io/)](https://blog.yoouyeon.dev)
 [![Gmail Badge](https://img.shields.io/badge/-jyeon.yoon59@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jyeon.yoon59@gmail.com)](mailto:jyeon.yoon59@gmail.com) 
 
 ## 💬 About Me
@@ -11,8 +10,14 @@
 - 🌱 I'm currently learning in 42Seoul.
 - 📖 I'm currently studying front-end skills.
 - 💗 I like to study new things and share what I know with others.
+<!-- 
+## 🌱 I'm currently learning...
 
-<!-- ## 🌱 I'm currently learning... -->
+![TypeScript](https://img.shields.io/badge/TypeScript-faf9f8?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-faf9f8?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+![React](https://img.shields.io/badge/React-282c34?style=flat-square&logo=react&logoColor=61DAFB)
+![]() -->
 
 ## 🧑‍🚀 42
 
