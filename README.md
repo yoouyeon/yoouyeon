@@ -21,13 +21,12 @@
 
 ## 🧑‍🚀 42
 
-[![jeyoon's 42 stats](https://badge42.vercel.app/api/v2/cl3en3hhl008509lhaz01qt8t/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+[![jeyoon's 42 stats](https://badge.mediaplus.ma/darkgray/jeyoon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🍒 PS Rank
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoou)](https://solved.ac/yoou)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yoou&theme=warm)
 
 ## ✨ Github Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoouyeon%2F&count_bg=%23FEBE8C&title_bg=%23F7A4A4&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
