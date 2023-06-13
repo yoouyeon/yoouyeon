@@ -1,9 +1,7 @@
 ## 👋 Hi there
 
-[![Github Badge](https://img.shields.io/badge/-yoouyeon-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoouyeon/)](https://www.github.com/yoouyeon/) 
-[![Intra42 Profile Badge](https://img.shields.io/badge/-jeyoon-black?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/jeyoon)](https://profile.intra.42.fr/users/jeyoon)
-[![Blog Badge](https://img.shields.io/badge/-Blog-CCE0EE?style=flat&logo=githubsponsors&logoColor=gray&link=https://yoouyeon.github.io/)](https://blog.yoouyeon.dev)
-[![Gmail Badge](https://img.shields.io/badge/-jyeon.yoon59@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jyeon.yoon59@gmail.com)](mailto:jyeon.yoon59@gmail.com) 
+[![Blog Badge](https://img.shields.io/badge/-Blog-CCE0EE?style=for-the-badge&logo=githubsponsors&logoColor=gray&link=https://yoouyeon.github.io/)](https://blog.yoouyeon.dev)
+[![Gmail Badge](https://img.shields.io/badge/-jyeon.yoon59@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyeon.yoon59@gmail.com)](mailto:jyeon.yoon59@gmail.com) 
 
 ## 💬 About Me
 
@@ -21,7 +19,7 @@
 
 ## 🧑‍🚀 42
 
-[![jeyoon's 42 stats](https://badge.mediaplus.ma/darkgray/jeyoon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![jeyoon's 42 stats](https://badge.mediaplus.ma/darkgray/jeyoon?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/jeyoon)
 
 ## 🍒 PS Rank
 
