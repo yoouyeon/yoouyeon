@@ -1,7 +1,10 @@
 ## 👋 Hi there
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-CCE0EE?style=for-the-badge&logo=githubsponsors&logoColor=gray&link=https://yoouyeon.github.io/)](https://blog.yoouyeon.dev)
+[![Static Badge](https://img.shields.io/badge/til_blog-EBC7E6?style=for-the-badge&logo=githubsponsors&link=https://yoouyeon.tistory.com)](https://yoouyeon.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/-jyeon.yoon59@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jyeon.yoon59@gmail.com)](mailto:jyeon.yoon59@gmail.com) 
+
+
 
 ## 💬 About Me
 
