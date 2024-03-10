@@ -2,7 +2,7 @@
 
 ## 🐧 About Me
 
-[![Blog Badge](https://img.shields.io/badge/-Blog-CCE0EE?style=for-the-badge&logo=githubsponsors&logoColor=gray&link=https://yoouyeon.github.io/)](https://blog.yoouyeon.dev)
+
 [![TIL Blog Badge](https://img.shields.io/badge/til_blog-EBC7E6?style=for-the-badge&logo=githubsponsors&link=https://yoouyeon.tistory.com)](https://yoouyeon.tistory.com)
 
 [![jeyoon's 42 stats](https://badge.mediaplus.ma/darkgray/jeyoon?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/jeyoon)
