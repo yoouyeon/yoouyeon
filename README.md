@@ -2,8 +2,8 @@
 
 ## 🐧 About Me
 
-
-[![Blog Badge](https://img.shields.io/badge/wiki_blog-EBC7E6?style=for-the-badge&logo=githubsponsors&link=https://wiki.yoouyeon.dev/)](https://wiki.yoouyeon.dev/)
+[![Blog Badge](https://img.shields.io/badge/WIP-%EB%B8%94%EB%A1%9C%EA%B7%B8_yoouyeon.dev-005DFF?style=for-the-badge&link=https://yoouyeon.dev/)](https://yoouyeon.dev/)
+[![Wiki Blog Badge](https://img.shields.io/badge/위키_블로그-EBC7E6?style=for-the-badge&link=https://notes.yoouyeon.dev/)](https://notes.yoouyeon.dev/)
 
 [![jeyoon's 42 stats](https://badge.mediaplus.ma/darkgray/jeyoon?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/jeyoon)
 
