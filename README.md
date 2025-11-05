@@ -2,10 +2,8 @@
 
 ## 🐧 About Me
 
-[![Blog Badge](https://img.shields.io/badge/WIP-%EB%B8%94%EB%A1%9C%EA%B7%B8_yoouyeon.dev-005DFF?style=for-the-badge&link=https://yoouyeon.dev/)](https://yoouyeon.dev/)
+[![Blog Badge](https://img.shields.io/badge/개발_블로그-005DFF?style=for-the-badge&link=https://yoouyeon.dev/)](https://blog.yoouyeon.dev/)
 [![Wiki Blog Badge](https://img.shields.io/badge/위키_블로그-EBC7E6?style=for-the-badge&link=https://notes.yoouyeon.dev/)](https://notes.yoouyeon.dev/)
-
-[![jeyoon's 42 stats](https://badge.mediaplus.ma/darkgray/jeyoon?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/jeyoon)
 
 ## 🌱 I'm currently learning...
 
@@ -17,8 +15,6 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yoouyeon?theme=light,dark&ext=heatmap)](https://leetcode.com/yoouyeon)
 
 ## 🐙 Github Stat
 
