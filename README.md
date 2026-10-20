@@ -2,8 +2,7 @@
 
 ## 🐧 About Me
 
-[![Blog Badge](https://img.shields.io/badge/개발_블로그-005DFF?style=for-the-badge&link=https://yoouyeon.dev/)](https://blog.yoouyeon.dev/)
-[![Wiki Blog Badge](https://img.shields.io/badge/위키_블로그-EBC7E6?style=for-the-badge&link=https://log.yoouyeon.dev/)](https://log.yoouyeon.dev/)
+[![Blog Badge](https://img.shields.io/badge/개발_블로그-005DFF?style=for-the-badge&link=https://yoouyeon.dev/)](https://yoouyeon.dev/)
 
 ## 🌱 I'm currently learning...
 
